@@ -1,0 +1,6 @@
+discord.py==2.0.0
+gspread==5.7.2
+google-auth==2.15.0
+google-auth-oauthlib==1.0.0
+google-auth-httplib2==0.1.0
+pickle5==0.0.12
