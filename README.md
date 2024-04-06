@@ -1,6 +1,10 @@
+<div align="center">
+
 # GuardianWatch - Discord Member Scanner
 
 Welcome to the Discord Member Scanner repository! This bot is your go-to tool for gathering and organizing information about Discord server members efficiently. Written entirely in Python and leveraging the power of Discord's Bot API along with the Google Sheets API, this bot offers versatility and ease of use across its three distinct modes: gsheets-mode, csv-mode, and combined-mode.
+
+</div>
 
 ## Features
 
@@ -9,7 +13,11 @@ CSV Mode: Utilizes the /inspect command to gather user information on-demand and
 Combined Mode: Merges the functionalities of GSheets and CSV modes, allowing the /inspect command to target either output format based on provided arguments (csv or gsheets).
 Each mode operates as a separate Python file, giving you the flexibility to choose the version that best suits your needs.
 
+<div align="center">
+
 ## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
+</div>
 
 ## Information Collected
 
