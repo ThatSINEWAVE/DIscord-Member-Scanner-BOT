@@ -37,6 +37,12 @@ We're constantly looking to expand the bot's capabilities. Planned future update
 - Last Message Sent in the Server
 - Getting Started
 
+<div align="center">
+
+# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+
+</div>
+
 ## To get the Discord Member Scanner up and running, follow these steps:
 
 - Clone the Repository: Start by cloning this repository to your local machine.
